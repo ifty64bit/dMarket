@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.numb::before{
+    content: counter(li);
+    position: absolute;
+    bottom: 0;
+}

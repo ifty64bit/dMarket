@@ -1,0 +1,34 @@
+[
+    {
+      "name": "realme narzo 50i-4/64",
+      "details":["5000mAh Massive Battery",
+        "Up to 43 Days of Standby",
+        "16.5cm (6.5) Large Display",
+        "Ultra Saving Mode",
+        "5% Power for 2 Hours Calling",
+        "Powerful Octa-core Processor",
+        "Up to 4GB+64GB Large Storage",
+        "Diagonal Stripe Design",
+        "8.9mm Super Slim Up to 256GB Memory"],
+      "price":"1",
+      "photo":"/nazro.jpg"
+    },
+    {
+      "name": "Realme GT Master Edition 8/128",
+      "details": [
+        "To avail EMI please call customer care 16492",
+        "NO RETURN applicable if the seal is broken",
+        "65W SuperDart Charge",
+        "4300mAh(typ) Massive Battery",
+        "Includes a 10V/6.5A Charging Adaptor",
+        "USB Type-C Port",
+        "4200mAh(min) Battery Capacity",
+        "Camera: 64MP Street Photography Camera",
+        "Rear Camera: 64MP Main Camera",
+        "25.3mm Focal Length"
+      ],
+      "price": "2",
+      "photo": "/GT.jpg"
+    }
+    
+]
